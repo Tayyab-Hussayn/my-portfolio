@@ -476,11 +476,11 @@ export const projects: Project[] = [
 ];
 
 export const milestones = [
-  { year: "2026", title: "Built the Alvis website", note: "Full production site in one week, plus an AI voice calling assistant" },
-  { year: "2026", title: "Joined Gobind Trades Ltd", note: "Full Stack Developer on the employee app and admin dashboard" },
+  { year: "2026", title: "Built the Alvis website", note: "Production site built solo in one week" },
+  { year: "2026", title: "Joined Gobind Trades Ltd", note: "Full Stack Developer, employee app" },
   { year: "2026", title: "Built LeadsGen", note: "Maps scraping and WhatsApp outreach, end to end" },
-  { year: "2025", title: "Launched byQalam", note: "LinkedIn AI content agent, live at byqalam.com" },
-  { year: "2023", title: "WordPress Developer at Techspirex", note: "Company website in custom code, 2023 – 2024" },
+  { year: "2025", title: "Launched byQalam", note: "LinkedIn AI agent, live at byqalam.com" },
+  { year: "2023", title: "Joined Techspirex", note: "Custom-code company website" },
 ];
 
 export const principles = [

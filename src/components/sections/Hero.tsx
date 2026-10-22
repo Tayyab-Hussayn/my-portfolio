@@ -79,7 +79,7 @@ export default function Hero() {
               Hey, I&apos;m <span className="font-semibold text-volt-ink">Tayyab</span>, a
             </motion.p>
             <h1 className="mt-2 font-display text-[clamp(3.3rem,6.4vw,7.6rem)] font-extrabold leading-[0.92] tracking-[-0.045em]">
-              {["AI &", "Automation Developer"].map((w, i) => (
+              {["Full-stack", "Developer"].map((w, i) => (
                 <span key={w} className="block overflow-hidden pb-[0.06em]">
                   <motion.span
                     className="block"
