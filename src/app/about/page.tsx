@@ -8,7 +8,7 @@ import { profile } from "@/lib/data";
 
 export const metadata: Metadata = {
   title: "About",
-  description: "Tayyab Hussayn is a full-stack developer and AI automation engineer based in Lahore, Pakistan.",
+  description: "Tayyab Hussayn is an AI & Automation Developer based in Lahore, Pakistan.",
 };
 
 const toolkit = [
@@ -20,7 +20,7 @@ const toolkit = [
 
 const stats = [
   { n: "26+", l: "Public repositories" },
-  { n: "12", l: "Projects showcased here" },
+  { n: "16", l: "Projects showcased here" },
   { n: "4", l: "Database engines in one tool" },
   { n: "24h", l: "Typical reply time" },
 ];
@@ -71,9 +71,16 @@ export default function AboutPage() {
             </Reveal>
             <Reveal delay={0.1}>
               <p>
-                I&apos;ve built a visual database manager that speaks four database engines, a lead-generation suite
-                that finds businesses without websites and reaches out on WhatsApp, and Qalam, a LinkedIn publishing
-                product that writes in your own voice. Each one started with a real problem, not a tech stack.
+                I&apos;ve built a visual database manager that speaks four database engines, LeadsGen, which
+                finds businesses without websites and reaches out on WhatsApp, and byQalam, a LinkedIn agent that
+                drafts posts and publishes them. Each one started with a real problem, not a tech stack.
+              </p>
+            </Reveal>
+            <Reveal delay={0.12}>
+              <p>
+                Since May 2026 I&apos;ve worked full-time as a Full Stack Developer at Gobind Trades Ltd, building
+                construction management software. I&apos;m also studying for a Bachelor&apos;s in Computer Science
+                (BSCS) at Superior University, 2025 – present.
               </p>
             </Reveal>
             <Reveal delay={0.15}>

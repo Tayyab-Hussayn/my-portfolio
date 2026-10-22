@@ -68,7 +68,7 @@ export default function Intro() {
               <div className="absolute inset-x-4 bottom-4 flex items-center justify-between rounded-2xl border border-line bg-bg/80 px-4 py-3 backdrop-blur-md">
                 <div>
                   <p className="text-sm font-medium">{profile.name}</p>
-                  <p className="font-mono text-[10px] uppercase tracking-[0.14em] text-muted">Full-stack · AI Automation</p>
+                  <p className="font-mono text-[10px] uppercase tracking-[0.14em] text-muted">AI & Automation</p>
                 </div>
                 <span className="flex items-center gap-2 rounded-full bg-volt/15 px-3 py-1 font-mono text-[10px] uppercase tracking-wider text-volt-ink">
                   <span className="pulse-dot h-1.5 w-1.5 rounded-full bg-volt" /> Available

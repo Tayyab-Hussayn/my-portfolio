@@ -84,7 +84,7 @@ export default async function ProjectPage({ params }: { params: Promise<{ slug: 
       <section className="py-20 sm:py-28">
         <div className="wrap grid gap-14 lg:grid-cols-12">
           <aside className="space-y-8 lg:col-span-4">
-            <Meta k="Role" v="Design & full-stack development" />
+            <Meta k="Role" v={p.role ?? "Design & full-stack development"} />
             <Meta k="Year" v={p.year} />
             <Meta k="Category" v={p.category} />
             <div>

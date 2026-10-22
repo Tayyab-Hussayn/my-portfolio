@@ -54,7 +54,7 @@ export default function Footer() {
           <div className="col-span-2 md:col-span-4">
             <Logo />
             <p className="mt-4 max-w-xs text-sm leading-relaxed text-muted">
-              Full-stack developer and AI automation engineer crafting fast, useful digital products.
+              AI & Automation Developer building AI agents and web apps.
             </p>
             <p className="mt-6 inline-flex items-center gap-2 font-mono text-[11px] uppercase tracking-[0.14em] text-muted">
               <span className="pulse-dot h-2 w-2 rounded-full bg-volt" />

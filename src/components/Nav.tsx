@@ -51,7 +51,7 @@ export default function Nav() {
           <span className="leading-tight">
             <span className="block text-[15px] font-bold uppercase tracking-[0.01em]">{profile.name}</span>
             <span className="block font-mono text-[10.5px] uppercase tracking-[0.16em] text-muted">
-              Full-stack Developer
+              AI & Automation Developer
             </span>
           </span>
         </Link>
