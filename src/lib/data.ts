@@ -404,7 +404,6 @@ export const projects: Project[] = [
     stack: ["React", "TypeScript", "Tailwind CSS", "Framer Motion", "FastAPI", "Edge-TTS"],
     tint: "aqua",
     mock: "voice",
-    live: "https://vocalize-ai-five.vercel.app",
     repo: "https://github.com/Tayyab-Hussayn/vocalize-ai",
   },
   {
