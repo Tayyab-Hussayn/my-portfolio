@@ -8,7 +8,7 @@ import { profile } from "@/lib/data";
 
 export const metadata: Metadata = {
   title: "About",
-  description: "Tayyab Hussayn is an AI & Automation Developer based in Lahore, Pakistan.",
+  description: "Tayyab Hussain is an AI & Automation Developer based in Lahore, Pakistan.",
 };
 
 const toolkit = [

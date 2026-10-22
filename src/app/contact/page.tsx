@@ -6,7 +6,7 @@ import { profile } from "@/lib/data";
 
 export const metadata: Metadata = {
   title: "Contact",
-  description: "Start a project with Tayyab Hussayn. Book a discovery call or send a message.",
+  description: "Start a project with Tayyab Hussain. Book a discovery call or send a message.",
 };
 
 const steps = [

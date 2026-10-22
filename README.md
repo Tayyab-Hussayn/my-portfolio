@@ -1,4 +1,4 @@
-# Tayyab Hussayn: Portfolio
+# Tayyab Hussain: Portfolio
 
 Personal portfolio built with Next.js 15, Tailwind CSS v4, Framer Motion and Lenis.
 

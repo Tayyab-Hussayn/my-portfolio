@@ -5,7 +5,7 @@ import Cta from "@/components/sections/Cta";
 
 export const metadata: Metadata = {
   title: "Projects",
-  description: "Selected products, tools, automations and experiments by Tayyab Hussayn.",
+  description: "Selected products, tools, automations and experiments by Tayyab Hussain.",
 };
 
 export default function ProjectsPage() {

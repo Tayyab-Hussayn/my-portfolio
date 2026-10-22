@@ -22,7 +22,7 @@ export const metadata: Metadata = {
     template: `%s · ${profile.name}`,
   },
   description: profile.intro,
-  keywords: ["Tayyab Hussayn", "AI & Automation Developer", "Full Stack Developer", "Next.js", "AI automation", "n8n", "Lahore", "Pakistan"],
+  keywords: ["Tayyab Hussain", "AI & Automation Developer", "Full Stack Developer", "Next.js", "AI automation", "n8n", "Lahore", "Pakistan"],
   authors: [{ name: profile.name, url: profile.github }],
   openGraph: {
     title: `${profile.name}: AI & Automation Developer`,

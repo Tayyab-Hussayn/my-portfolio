@@ -1,5 +1,5 @@
 export const profile = {
-  name: "Tayyab Hussayn",
+  name: "Tayyab Hussain",
   short: "Tayyab",
   role: "AI & Automation Developer",
   focus: "Full Stack Developer at Gobind Trades Ltd",
