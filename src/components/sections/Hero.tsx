@@ -11,7 +11,7 @@ const ease = [0.22, 1, 0.36, 1] as const;
 
 const tech = [
   { icon: Atom, name: "React", sub: "Frontend" },
-  { icon: Hexagon, name: "Node.js", sub: "Backend" },
+  { icon: Hexagon, name: "Python", sub: "Backend" },
   { icon: Database, name: "PostgreSQL", sub: "Database" },
   { icon: Workflow, name: "n8n & AI", sub: "Automation" },
 ];
