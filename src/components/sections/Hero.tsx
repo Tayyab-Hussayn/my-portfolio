@@ -76,10 +76,10 @@ export default function Hero() {
               transition={{ duration: 0.8, ease, delay: 0.2 }}
               className="font-display text-2xl font-normal text-text/80 sm:text-[34px] xl:text-[40px]"
             >
-              Hey, I&apos;m <span className="font-semibold text-volt-ink">Tayyab</span>, a
+              Hey, I&apos;m <span className="font-semibold text-volt-ink">Tayyab</span>, an
             </motion.p>
             <h1 className="mt-2 font-display text-[clamp(3.3rem,6.4vw,7.6rem)] font-extrabold leading-[0.92] tracking-[-0.045em]">
-              {["Full-stack", "Developer"].map((w, i) => (
+              {["Automation", "Developer"].map((w, i) => (
                 <span key={w} className="block overflow-hidden pb-[0.06em]">
                   <motion.span
                     className="block"
@@ -136,7 +136,7 @@ export default function Hero() {
               Great technology should feel effortless.
             </p>
             <p className="mt-4 text-[15.5px] leading-relaxed text-muted xl:text-[17px]">
-              I design and build web apps, SaaS products and AI automations that are fast, reliable and genuinely
+              I build AI agents, automations and web apps that are fast, reliable and genuinely
               useful.
             </p>
             <div className="mt-8 flex flex-wrap gap-3">
