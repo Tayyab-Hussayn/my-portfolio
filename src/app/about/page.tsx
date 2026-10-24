@@ -20,7 +20,7 @@ const toolkit = [
 
 const stats = [
   { n: "26+", l: "Public repositories" },
-  { n: "16", l: "Projects showcased here" },
+  { n: "11", l: "Projects showcased here" },
   { n: "4", l: "Database engines in one tool" },
   { n: "24h", l: "Typical reply time" },
 ];

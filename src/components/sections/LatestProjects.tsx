@@ -3,7 +3,7 @@ import { Button, Label, Reveal, Words } from "../ui";
 import ProjectList from "./ProjectList";
 
 export default function LatestProjects() {
-  const items = projects.filter((p) => !["querylens", "qalam", "axon-lead-suite"].includes(p.slug)).slice(0, 5);
+  const items = projects.filter((p) => !["gobind-field-app", "alvis", "myhomedoc"].includes(p.slug)).slice(0, 5);
   return (
     <section className="py-24 sm:py-32">
       <div className="wrap">

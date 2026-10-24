@@ -8,7 +8,7 @@ import ProjectMedia, { tintInk, tintVar } from "../ProjectMedia";
 import { Button, Label, Reveal, Words } from "../ui";
 
 export default function FeaturedWork() {
-  const picks = ["querylens", "qalam", "axon-lead-suite"].map((s) => projects.find((p) => p.slug === s)!);
+  const picks = ["gobind-field-app", "alvis", "myhomedoc"].map((s) => projects.find((p) => p.slug === s)!);
   return (
     <section className="relative py-24 sm:py-32">
       <div className="wrap">
