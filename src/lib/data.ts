@@ -291,7 +291,7 @@ export const projects: Project[] = [
     role: "Personal project (in development)",
     tagline: "Notes, reminders and to-dos on the phone's home screen.",
     summary:
-      "A Kotlin app that puts notes, reminders and to-dos right on the phone's home screen, so they stay in view without opening the app. It runs on a FastAPI and PostgreSQL backend. I built it by running several AI coding agents in parallel, each owning one part of the codebase. Still in development.",
+      "A Kotlin app that puts notes, reminders and to-dos right on the phone's home screen and desktop, so they stay in view without opening the app. It runs on a FastAPI and PostgreSQL backend. I built it by running several AI coding agents in parallel, each owning one part of the codebase. Still in development.",
     features: [
       "Notes, reminders and to-dos on the home screen",
       "FastAPI and PostgreSQL backend",
@@ -299,7 +299,8 @@ export const projects: Project[] = [
     ],
     stack: ["Kotlin", "Compose Multiplatform", "FastAPI", "PostgreSQL"],
     tint: "volt",
-    mock: "terminal",
+    cover: "/work/smart-notes.webp",
+    gallery: ["/work/smart-notes.webp", "/work/smart-notes_1.webp", "/work/smart-notes_2.webp", "/work/smart-notes_3.webp", "/work/smart-notes_4.webp"],
   },
   {
     slug: "querylens",
@@ -367,7 +368,8 @@ export const projects: Project[] = [
     ],
     stack: ["React", "Vite", "TypeScript", "Supabase", "Tailwind CSS"],
     tint: "coral",
-    mock: "orders",
+    cover: "/work/order-online.webp",
+    gallery: ["/work/order-online.webp", "/work/order-online_1.webp", "/work/order-online_2.webp", "/work/order-online_3.webp"],
     repo: "https://github.com/Tayyab-Hussayn/orderOnline",
   },
   {
